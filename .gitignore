@@ -1,0 +1,7 @@
+deployment-package.zip
+.DS_Store
+
+venv
+deployment/*
+!lambda_function.py
+!typing_extensions.py
