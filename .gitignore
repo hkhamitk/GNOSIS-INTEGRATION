@@ -2,6 +2,8 @@ deployment-package.zip
 .DS_Store
 
 venv
-deployment/*
-!lambda_function.py
+/*
+!*.py
+!*.txt
+!README.md
 !typing_extensions.py
