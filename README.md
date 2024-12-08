@@ -1,6 +1,6 @@
 # GNOSIS-INTEGRATION
 
-**Setup lambda function in**
+**Setup lambda function in AWS**
 
 1.  cd lambda-open-ai-gnosis
 2.  : Run zip -r function.zip .
